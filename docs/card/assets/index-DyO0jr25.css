@@ -103,11 +103,11 @@ button:focus-visible {
 }
 @font-face {
   font-family: Makinas-4-Flat;
-  src: url(https://tokyo-denno-com.github.io/card/assets/Makinas-4-Flat-CvfiiTvm.otf)
+  src: url(https://tokyo-denno-com.github.io/card//assets/Makinas-4-Flat-CvfiiTvm.otf)
     format("opentype");
 }
 @font-face {
   font-family: Noto Sans JP;
-  src: url(https://tokyo-denno-com.github.io/card/assets/NotoSansJP-VariableFont_wght-Bs0uDfbV.ttf)
+  src: url(https://tokyo-denno-com.github.io/card//assets/NotoSansJP-VariableFont_wght-Bs0uDfbV.ttf)
     format("truetype");
 }
