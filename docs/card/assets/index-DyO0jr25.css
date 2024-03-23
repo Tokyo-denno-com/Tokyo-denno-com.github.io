@@ -98,14 +98,14 @@ button:focus-visible {
 }
 @font-face {
   font-family: JetBrainsMono-Regular;
-  src: url(./assets/JetBrainsMono-Regular-Dh36KTnx.ttf) format("truetype");
+  src: url(/card/assets/JetBrainsMono-Regular-Dh36KTnx.ttf) format("truetype");
 }
 @font-face {
   font-family: Makinas-4-Flat;
-  src: url(./assets/Makinas-4-Flat-CvfiiTvm.otf) format("opentype");
+  src: url(/card/assets/Makinas-4-Flat-CvfiiTvm.otf) format("opentype");
 }
 @font-face {
   font-family: Noto Sans JP;
-  src: url(./assets/NotoSansJP-VariableFont_wght-Bs0uDfbV.ttf)
+  src: url(/card/assets/NotoSansJP-VariableFont_wght-Bs0uDfbV.ttf)
     format("truetype");
 }
